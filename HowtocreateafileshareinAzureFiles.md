@@ -78,9 +78,9 @@
 
 9. Navigate to the "This PC" item on the left-hand side of the window. This will change the menus available in the ribbon. Under the Computer menu, select "Map Network Drive"
 
-10. Select the Drive letter and enter the UNC path \\**<storage-account-name>**.file.core.windows.net<share-name>
+10. Select the Drive letter and enter the UNC path \\<storage-account-name>.file.core.windows.net<share-name>
 
-    Note 1: Replace the **<storage-account-name>**, with the actual storage account name
+    Note 1: Replace the <storage-account-name>, with the actual storage account name
 
     Note 2: Replace the <share-name>, with the relevant share name
 
