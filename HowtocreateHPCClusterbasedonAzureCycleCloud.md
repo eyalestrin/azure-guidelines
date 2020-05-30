@@ -363,16 +363,29 @@ Note: In-case you used an existing Azure resource group, you have to manually se
 ## References
 
 + Azure CycleCloud Quickstarts
+
 https://docs.microsoft.com/en-us/azure/cyclecloud/quickstart-install-cyclecloud
+
 + Azure CycleCloud Quickstart 2: Create and Run a Simple HPC Cluster
+
 https://docs.microsoft.com/en-us/azure/cyclecloud/quickstart-create-and-run-cluster
+
 + Manual Installation
+
 https://docs.microsoft.com/en-us/azure/cyclecloud/installation
+
 + Creating a Slurm/MPI/Lustre HPC cluster with Azure CycleCloud
+
 https://andreas-wilm.github.io/2019-07-05-slurm-cluster-with-lustre/
+
 + Cluster Templates
+
 https://docs.microsoft.com/en-us/azure/cyclecloud/cluster-templates
+
 + CycleCloud Slurm
+
 https://github.com/Azure/cyclecloud-slurm
+
 + Parallel Virtual File Systems on Microsoft Azure
+
 https://azure.microsoft.com/mediahandler/files/resourcefiles/parallel-virtual-file-systems-on-microsoft-azure/PVFS%20on%20Azure%20Guide.pdf
